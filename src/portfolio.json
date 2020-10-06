@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "cardTitle": "Stickler's Paradise",
+    "cardImage": "/assets/portfolio/stickler's.jpeg",
+    "cardText": "Application to search rules of games.",
+    "liveLink": "https://sticklersparadise.herokuapp.com/",
+    "code": "https://github.com/chaalexander/rules",
+    "use": "html5",
+    "use1": "css3-alt",
+    "use2": "js-square",
+    "use3": "node",
+    "use4": "npm"
+  },
+  {
+    "id": 2,
+    "cardTitle": "Libations",
+    "cardImage": "/assets/portfolio/brewery.png",
+    "cardText": "Look up Breweries at the city you are at.",
+    "liveLink": "https://armcbride.github.io/libations/",
+    "code": "https://github.com/armcbride/libations",
+    "use": "html5",
+    "use1": "css3-alt",
+    "use2": "js-square"
+  },
+  {
+    "id": 3,
+    "cardTitle": "Employee Summary",
+    "cardImage": "/assets/portfolio/employee.jpeg",
+    "cardText": "Generates a employee summary on Node.js.",
+    "liveLink": "https://github.com/chaalexander/employeeSummary",
+    "code": "https://github.com/chaalexander/employeeSummary",
+    "use3": "node",
+    "use4": "npm"
+  },
+  {
+    "id": 4,
+    "cardTitle": "Password generator",
+    "cardImage": "/assets/portfolio/password.jpeg",
+    "cardText": "Password Generator website.",
+    "liveLink": "https://chaalexander.github.io/password-generator-/",
+    "code": "https://github.com/chaalexander/password-generator-",
+    "use": "html5",
+    "use1": "css3-alt",
+    "use2": "js-square"
+  },
+  {
+    "id": 5,
+    "cardTitle": "Weather Report",
+    "cardImage": "/assets/portfolio/weather.jpeg",
+    "cardText": "Weather Report for current and next 5 days.",
+    "liveLink": "https://chaalexander.github.io/weatherreport/",
+    "code": "https://github.com/chaalexander/weatherreport",
+    "use": "html5",
+    "use1": "css3-alt",
+    "use2": "js-square"
+  },
+  {
+    "id": 6,
+    "cardTitle": "Bob's Burger",
+    "cardImage": "/assets/portfolio/bob.jpeg",
+    "cardText": "Application bi-lingual created to keep track of burgers.",
+    "liveLink": "https://bobs-burger-ca.herokuapp.com/",
+    "code": "https://github.com/chaalexander/bobsBurger",
+    "use": "html5",
+    "use1": "css3-alt",
+    "use2": "js-square",
+    "use3": "node",
+    "use4": "npm"
+  }
+]

@@ -1,0 +1,212 @@
+.wrapper {
+  min-height: 100%;
+  padding-bottom: 100px;
+}
+
+/* about */
+#about {
+  margin-top: 80px;
+}
+
+.lng {
+  margin: 30px;
+  display: inline-block;
+}
+
+.languages {
+  margin-top: -80px;
+}
+
+.aboutmeBig {
+  font-size: 25px;
+  text-align: center;
+  margin-top: 90px;
+  margin-bottom: 100px;
+  margin-right: 20px;
+}
+
+.abt {
+  text-align: center;
+  margin-top: -50px;
+  font-size: 70px;
+  margin-bottom: 30px;
+}
+
+.img {
+  width: 15vw;
+  height: 22vw;
+  border-radius: 8mm;
+  margin: 2vw;
+}
+
+.skills {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* contact */
+#contact {
+  margin-top: 50px;
+}
+
+.me,
+.list-unstyled {
+  text-align: center;
+}
+
+.icon {
+  width: 100px;
+  height: 100px;
+  margin-top: 15px;
+}
+
+.hoverIcon {
+  display: inline-grid;
+  transform: scale(1.5);
+  transform: scale(1.5);
+  margin: 8px;
+}
+
+span {
+  color: black;
+}
+
+.smallScreen,
+.aboutmeSml {
+  visibility: hidden;
+}
+
+/* portfolio */
+.btn-dark {
+  margin-left: 30px;
+}
+
+.port {
+  margin-top: 20px;
+  margin-bottom: 90px;
+}
+
+.card-text {
+  margin: 2vw;
+  text-align: center;
+}
+.card {
+  width: 18rem;
+  height: 420px;
+  margin: 45px;
+}
+
+h6 {
+  margin: 10px;
+}
+
+img {
+  padding: 10px;
+}
+
+.use {
+  text-align: center;
+  margin: 15px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 30%;
+}
+
+/* footer */
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: dodgerblue;
+  color: white;
+  text-align: center;
+  margin-top: 30px;
+}
+
+h6 {
+  margin: 10px;
+}
+
+.built {
+  color: white;
+}
+
+@media screen and (max-width: 989px) {
+  .btn-dark {
+    margin: 5px;
+    margin-top: 30px;
+  }
+  .use {
+    margin-bottom: -10px;
+    margin-top: 15px;
+  }
+  .media {
+    width: 100%;
+    height: 100%;
+    margin-left: -25px;
+    border-radius: 30px;
+  }
+  .ft {
+    color: white;
+  }
+  .img {
+    width: 50%;
+    height: 30%;
+    margin-top: 40px;
+    margin-left: 10px;
+  }
+
+  #about {
+    margin-top: 0px;
+  }
+  .abt {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: -15px;
+  }
+
+  .aboutmeSml {
+    font-size: 15px;
+    margin-left: 0px;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-top: 40px;
+    visibility: visible;
+  }
+
+  .aboutmeBig {
+    display: none;
+  }
+
+  #contact {
+    margin-bottom: -60px;
+  }
+  .port {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .card {
+    margin-bottom: 0px;
+  }
+
+  .lng {
+    margin: 2px;
+  }
+
+  .smallScreen {
+    visibility: visible;
+  }
+
+  .languages {
+    margin-top: 10px;
+    display: none;
+  }
+}
